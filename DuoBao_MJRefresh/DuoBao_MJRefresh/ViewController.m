@@ -6,6 +6,13 @@
 //  Copyright © 2016年 chenHongRong. All rights reserved.
 //
 
+//pod lib lint DuoBao_MJRefresh.podspec --allow-warnings
+
+// 修改路径
+//license file  无法找到一个许可证文件
+
+
+
 #import "ViewController.h"
 
 
