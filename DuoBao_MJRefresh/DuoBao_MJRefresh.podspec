@@ -5,8 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "Indiana in the modification of MJRefresh."
 
   
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "Indiana in the modification of MJRefresh"
 
   s.homepage     = "https://github.com/CHRGITHUB/DuoBao_MJRefresh.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
